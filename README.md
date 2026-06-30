@@ -5,7 +5,7 @@ Steps to get this repo running in your device:
 ## Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/Sasta-Sharabi/my_token.git
+git clone https://github.com/rev-glory/my_token.git
 cd my_token
 ```
 
